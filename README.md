@@ -3,7 +3,7 @@
 A new Flutter project.
 
 ## Getting Started
-![](https://github.com/EJPradoB/app_delivery_restaurant/blob/main/assets/ImagenesGIT/delibery_img_1.png)
+    <img src="C:\Users\Marcu\OneDrive\Escritorio\ImagenesGIT\delibery_img_1.png" style="width: 180px; height: 370px;" alt="">
 This project is a starting point for a Flutter application.
 
 A few resources to get you started if this is your first Flutter project:
