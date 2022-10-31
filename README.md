@@ -15,14 +15,8 @@ A new Flutter project.
 <body>
 
  
+        <img src="https://github.com/EJPradoB/app_delivery_restaurant/blob/main/assets/ImagenesGIT/delibery_img_1.png" style="width: 210px; height: 390px;" alt="">
 
-
-        <img src="[https://github.com/EJPradoB/app_delivery_restaurant/blob/main/assets/ImagenesGIT/delivery_img_1.png](https://github.com/EJPradoB/app_delivery_restaurant/blob/main/assets/ImagenesGIT/delibery_img_1.png)">
- 
-
- 
-  
-        
 
 </body>
 </html>
