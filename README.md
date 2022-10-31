@@ -3,7 +3,22 @@
 A new Flutter project.
 
 ## Getting Started
+ 
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Document</title>
+</head>
+<body>
     <img src="C:\Users\Marcu\OneDrive\Escritorio\ImagenesGIT\delibery_img_1.png" style="width: 180px; height: 370px;" alt="">
+    
+</body>
+</html>
+
+
 This project is a starting point for a Flutter application.
 
 A few resources to get you started if this is your first Flutter project:
