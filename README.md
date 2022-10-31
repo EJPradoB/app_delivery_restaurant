@@ -11,13 +11,7 @@
 
  
 
-    <div style="display: flex;justify-content: space-between ;width: 800px; ">
-
-        <img src="https://github.com/EJPradoB/app_delivery_restaurant/blob/main/assets/ImagenesGIT/delibery_img_1.png" style="width: 210px; height: 390px;" alt="">
-    
-       
-        
-    </div>
+    <h1> asas</h1>
 
 </body>
 </html>
