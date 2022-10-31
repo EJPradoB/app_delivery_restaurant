@@ -27,7 +27,7 @@ class InfoProduct extends StatelessWidget {
               topRight: Radius.circular(35.0),
             ),
             child: Image.asset(
-              "assets/images/noodles_ramen.jpg",
+              "assets/images/noodles_ramen1.jpg",
               width: double.infinity,
               fit: BoxFit.cover,
             ),

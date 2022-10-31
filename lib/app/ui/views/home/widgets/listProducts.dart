@@ -2,10 +2,23 @@ import 'package:flutter/material.dart';
 
 import 'infoProduct.dart';
 
-//en este widget podremso observar como los productos de alinean de columnas
+//en este widget podremso observar como los productos se alinean de columnas
 // es la segunda vista, l primera es ShowModalSelectImageView( primera vista )
 
 //e usado la libreria SliderList / sliderGrid
+
+final imagenesList = [
+  "noodles_ramen1",
+  "noodles_ramen2",
+  "noodles_ramen3",
+  "noodles_ramen5",
+  "noodles_ramen6",
+  "noodles_ramen7",
+  "noodles_ramen8",
+  "noodles_ramen9",
+  "noodles_ramen10",
+  "noodles_ramen11",
+];
 
 class GridProductoView extends StatelessWidget {
   const GridProductoView({Key? key}) : super(key: key);
@@ -50,7 +63,7 @@ class GridProductoView extends StatelessWidget {
                     (context, index) {
                       //showModalBottomSheet (selecion de item en la lista GRID(silver )) para agregar al carro de comprar
                       return GestureDetector(
-                        child: Container(
+                        child: SizedBox(
                           width: double.infinity,
                           //Se le puede agregrar un color poder ver que alcancce de widgets tiene
 
@@ -60,7 +73,7 @@ class GridProductoView extends StatelessWidget {
                               ClipRRect(
                                 borderRadius: BorderRadius.circular(26.0),
                                 child: Image.asset(
-                                  "assets/images/noodles_ramen.jpg",
+                                  "assets/images/${imagenesList[index]}.jpg",
                                   height: 130,
                                   width: double.infinity,
                                   fit: BoxFit.cover,
@@ -104,7 +117,7 @@ class GridProductoView extends StatelessWidget {
                         },
                       );
                     },
-                    childCount: 9,
+                    childCount: imagenesList.length,
                   ),
                   gridDelegate: const SliverGridDelegateWithFixedCrossAxisCount(
                       crossAxisCount: 2,
