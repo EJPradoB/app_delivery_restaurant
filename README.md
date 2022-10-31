@@ -13,7 +13,7 @@ A new Flutter project.
     <title>Document</title>
 </head>
 <body>
-    <img src="C:\Users\Marcu\OneDrive\Escritorio\ImagenesGIT\delibery_img_1.png" style="width: 180px; height: 370px;" alt="">
+    <img src="https://github.com/EJPradoB/app_delivery_restaurant/blob/main/assets/ImagenesGIT/delibery_img_1.png" style="width: 180px; height: 370px;" alt="">
     
 </body>
 </html>
