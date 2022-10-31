@@ -13,11 +13,11 @@ A new Flutter project.
    
 </head>
 <body>
-    <h3>ScreenShot</h3>
+
  
 
 
-        <img src="https://github.com/EJPradoB/app_delivery_restaurant/blob/main/assets/ImagenesGIT/delivery_img_1.png" style="width: 180px; height: 370px;" alt="">
+        <img src="[https://github.com/EJPradoB/app_delivery_restaurant/blob/main/assets/ImagenesGIT/delivery_img_1.png](https://github.com/EJPradoB/app_delivery_restaurant/blob/main/assets/ImagenesGIT/delibery_img_1.png)">
  
 
  
