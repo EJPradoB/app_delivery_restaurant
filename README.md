@@ -13,9 +13,17 @@ A new Flutter project.
    
 </head>
 <body>
-    <h3>Menu de categorias de platos</h3>
+    <h3>ScreenShot</h3>
     <img src="https://github.com/EJPradoB/app_delivery_restaurant/blob/main/assets/ImagenesGIT/delibery_img_1.png" style="width: 180px; height: 370px;" alt="">
+     <div style="display: flex;justify-content: space-between ;width: 800px; ">
+
+        <img src="https://github.com/EJPradoB/app_delivery_restaurant/blob/main/assets/ImagenesGIT/2.png" style="width: 210px; height: 390px;" alt="">
     
+        <img src="https://github.com/EJPradoB/app_delivery_restaurant/blob/main/assets/ImagenesGIT/3.png" style="width: 210px; height: 390px;" alt="">
+        <img src="https://github.com/EJPradoB/app_delivery_restaurant/blob/main/assets/ImagenesGIT/4.png" style="width: 210px; height: 390px;" alt="">
+
+        
+    </div>
 </body>
 </html>
 
