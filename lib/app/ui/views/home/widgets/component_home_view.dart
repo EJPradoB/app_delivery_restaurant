@@ -1,6 +1,9 @@
-import 'package:app_delivery_restaurant/app/ui/views/home/widgets/infoCategorySelect.dart';
+import 'package:app_delivery_restaurant/app/ui/views/detalle/detalle_view.dart';
 import 'package:flutter/cupertino.dart';
 import 'package:flutter/material.dart';
+import 'package:get/get.dart';
+
+import '../../../../routes/app_routes.dart';
 
 // ventada donde donde aparace la imagen de la categoria selecionada
 class ComponentHomeView extends StatelessWidget {
@@ -31,9 +34,24 @@ class ComponentHomeView extends StatelessWidget {
             height: 15.0,
           ),
 
-          //vista al momento de dar click en la imagen podemos observar la informacion del la categoria elegida
+          GestureDetector(
+            child: SizedBox(
+              width: double.infinity,
+              height: 190,
+              child: ClipRRect(
+                borderRadius: const BorderRadius.all(Radius.circular(28)),
+                child: Image.asset(
+                  "assets/images/noodles_ramen.jpg",
+                  fit: BoxFit.cover,
+                ),
+              ),
+            ),
+            onTap: () {
+              Get.toNamed(AppRoutes.DETALLE);
+            },
+          ), //vista al momento de dar click en la imagen podemos observar la informacion del la categoria elegida
           //y unos pocos porducto
-          const ShowModalSelectImageView(),
+          //   const InfoCategorySelect(),
 
           const SizedBox(
             height: 15.0,
