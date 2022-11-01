@@ -9,9 +9,7 @@ ScreenShot
     
        
 </div>
-<h2>
-Video
+<h3>
+Video del funcionamiento de la App
 </h2>
-<video  controls src="https://github.com/EJPradoB/app_delivery_restaurant/blob/main/assets/videoGit/video_demotracion.mp4" autoplay poster="">
-            Tu navegador no admite el elemento <code>video</code>.
-    </video>
+link: https://youtu.be/po_Pq0g9sFU
