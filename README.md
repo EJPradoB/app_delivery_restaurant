@@ -14,4 +14,4 @@ Video
 </h2>
 <video  controls src="https://github.com/EJPradoB/app_delivery_restaurant/blob/main/assets/videoGit/video_demotracion.mp4" autoplay poster="">
             Tu navegador no admite el elemento <code>video</code>.
-</video>
+    </video>
